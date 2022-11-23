@@ -31,3 +31,6 @@ Busco me devolver em TI ainda sem uma área especifica, tenho boas noções de H
 <a href="https://github.com/BiBiianca">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiBiianca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+<img src="https://imageup.me/hce"/>
+          
