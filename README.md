@@ -33,4 +33,6 @@ Busco me devolver em TI ainda sem uma área especifica, tenho boas noções de H
 </div>
 
 <img src="https://uploaddeimagens.com.br/imagens/mkNqfIs"/>
+ <img src="https://uploaddeimagens.com.br/imagens/mkNqfIs" width="40" height="40"/>
+
           
