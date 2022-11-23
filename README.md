@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-## Bem vindo ao meu perfil GitHub, sou a Bianca! 👋
-
-Olá! Sou estudante de Analise de Sistemas, tenho 22 anos e estou procurando me desenvolver na TI
--🔭 Atualmente trabalho com atendimento ao cliente
--🌱 Estudo Analise e Desenvlvimento de Sistemas
+## Olá bem vindo ao meu perfil GitHub, sou a Bianca! 👋
+## 🔭 Atualmente trabalho com atendimento ao cliente
+## 🌱 Estudo Analise e Desenvlvimento de Sistemas
 
 Busco me devolver em TI ainda sem uma área especifica, tenho boas noções de HTML, CSS, C e Lógica de Programação
