@@ -32,7 +32,6 @@ Busco me devolver em TI ainda sem uma área especifica, tenho boas noções de H
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiBiianca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<img src="https://uploaddeimagens.com.br/imagens/mkNqfIs" />
- <img src="https://uploaddeimagens.com.br/imagens/mkNqfIs" width="40" height="40" />
+![Snake animation](https://github.com/BiBiianca/BiBiianca/blob/output/github-contribution-grid-snake.svg)
 
           
