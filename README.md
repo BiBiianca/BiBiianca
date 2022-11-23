@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ## Olá bem vindo ao meu perfil GitHub, sou a Bianca! 👋
 - 🔭 Atualmente trabalho com atendimento ao cliente
 - 🌱 Estudo Analise e Desenvlvimento de Sistemas 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" height="25"/>
+            
+Busco me devolver em TI ainda sem uma área especifica, tenho boas noções de HTML, CSS, C e Lógica de Programação! 
 
-Busco me devolver em TI ainda sem uma área especifica, tenho boas noções de HTML, CSS, C e Lógica de Programação
+
