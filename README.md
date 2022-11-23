@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 Atualmente trabalho com atendimento ao cliente
 - 🌱 Estudo Analise e Desenvlvimento de Sistemas
 
-Busco me devolver em TI ainda sem uma área especifica, tenho boas noções de HTML, CSS, C e Lógica de Programação
+Busco me devolver em TI ainda sem uma área especifica, tenho boas noções de HTML<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">, CSS <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> C <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> e Lógica de Programação
