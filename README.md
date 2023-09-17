@@ -6,7 +6,7 @@
 --> 
 ## Bem-vindo ao meu cantinho no GitHub👋
 - 🔭 Atualmente trabalho como Assistente de Atendimento e Serviços de TI CSC
-- 🌱 Estudo Analise e Desenvlvimento de Sistemas
+- 🌱 Estudo Analise e Desenvlvimento de Sistemas com foco em DevOps
 - 👨‍🎓 Estudante incansável na escola infinita da técnologia! 📚💻🧠
 
  Sou uma jovem mulher de 22 anos que está embarcando em uma emocionante jornada de aprendizado na programação. Apesar de não ter experiência prévia, estou dedicando meu tempo e energia para mergulhar de cabeça nesse mundo fascinante.
